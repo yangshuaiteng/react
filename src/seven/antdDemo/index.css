@@ -1,0 +1,21 @@
+.add_info{
+    position: absolute;
+    right: 45px;
+    top: 75px;
+
+}
+.logo{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-size: 30px
+}
+.login{
+    position: absolute;
+    top: 15px;
+    right: 20px;
+}
+.fontqq{
+    font-size: 40px;
+    margin-left: 20px
+}
